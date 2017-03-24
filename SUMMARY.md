@@ -3,7 +3,7 @@
 ## Accessing your WordPress site
 
 * [Introduction](README.md)
-* Logging into your site
+* [Logging into your site](logging-into-your-site.md)
 * Resetting your password
 * Switching from Dashboard to live site
 
@@ -13,7 +13,7 @@
 * Making a Post private
 * [Working with content in the Text editor](adding-content-to-your-site/working-with-content-in-the-text-editor.md)
 
-## Working with Aesop Story Engine components
+## Working with components
 
 * Adding a text column-width image
 * Adding a full webpage-width image
