@@ -12,6 +12,8 @@
 * [Creating a Post](adding-content-to-your-site/creating-a-post.md)
 * Making a Post private
 * [Working with content in the Text editor](adding-content-to-your-site/working-with-content-in-the-text-editor.md)
+* Creating a link
+* Editing a link
 
 ## Working with components
 
