@@ -4,6 +4,6 @@ As you work on your project, you may want to keep your Post private until you're
 
 To make your Post private:
 
-1. In your Post, go to the Publish area (upper right) and click the Edit link next to Visibility: Public.
+1. In your Post, go to the Publish area (upper-right) and click the Edit link next to Visibility: Public.
 2. Click the Private radio button. Then click OK.
 3. When finished, click Update. 

@@ -22,10 +22,11 @@
 
 ## Working with Aesop Story Engine components
 
-* Adding a text column-width image
+* [Adding a text column-width image](adding-content-to-your-site/adding-a-text-column-width-image.md)
 * Adding a full webpage-width image
 * [Adding a full webpage-width video](adding-content-to-your-site/adding-a-full-webpage-width-video.md)
 * Adding an audio component
+* Adding a photo gallery component
 * Moving a component
 * Deleting a component
 
