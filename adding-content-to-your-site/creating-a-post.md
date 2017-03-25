@@ -1,5 +1,7 @@
 # Creating a Post
 
+To add a story your project site, you'll need to create a Post.
+
 1. From the Dashboard, click Posts and select Add New.
 2. Enter a title for your Post. 
 3. Use the Text editor to add text to your Post. (Note: Do not use the Visual editor when working with Aesop Story Engine components.)
