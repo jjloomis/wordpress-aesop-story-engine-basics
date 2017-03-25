@@ -6,7 +6,8 @@
 
 ## Accessing your WordPress site
 
-* [Logging into your site](logging-into-your-site.md)
+* [Accessing your project site](accessing-your-project-site.md)
+* [Logging into your project site](logging-into-your-site.md)
 * [Resetting your password](resetting-your-password.md)
 * [Switching from Dashboard to live site](switching-from-dashboard-to-live-site.md)
 
