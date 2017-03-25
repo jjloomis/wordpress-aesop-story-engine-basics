@@ -8,4 +8,4 @@
 6. Paste the URL in the Insert/edit link box.
 7. Click the Apply button.
 8. Click Update or Publish.
-9. Click View Post or View Page and make sure the link is working correctly. If it is not working correctly, you'll need to edit the link.
+9. Click View Post and make sure the link is working correctly. 
