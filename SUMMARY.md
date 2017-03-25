@@ -23,10 +23,10 @@
 ## Working with Aesop Story Engine components
 
 * [Adding a text column-width image](adding-content-to-your-site/adding-a-text-column-width-image.md)
-* Adding a full webpage-width image
+* [Adding a full webpage-width image](adding-content-to-your-site/adding-a-full-webpage-width-image.md)
 * [Adding a full webpage-width video](adding-content-to-your-site/adding-a-full-webpage-width-video.md)
-* Adding an audio component
-* Adding a photo gallery component
-* Moving a component
-* Deleting a component
+* [Adding an audio component](adding-content-to-your-site/adding-an-audio-component.md)
+* [Adding a photo gallery component](adding-content-to-your-site/adding-a-photo-gallery-component.md)
+* [Moving a component](adding-content-to-your-site/moving-a-component.md)
+* [Deleting a component](adding-content-to-your-site/deleting-a-component.md)
 
