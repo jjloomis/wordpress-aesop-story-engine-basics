@@ -6,3 +6,6 @@
 4. In the Aesop Story Engine interface, click Image.
 5. Make the following changes in the Aesop Story Engine Image interface:
 
+
+
+
