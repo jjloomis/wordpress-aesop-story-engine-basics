@@ -9,7 +9,7 @@
 | Parameter | Change to |
 | :--- | :--- |
 | Image Size | 760px |
-| Caption | Add caption and photo credit here. Use Photo: Steven Student as format for photo credit. |
+| Caption | Add caption and photo credit here. Use `Photo: Steven Student` (no period) as format for photo credit. |
 | Caption Position | Center |
 | Reveal Effect | In Place |
 
