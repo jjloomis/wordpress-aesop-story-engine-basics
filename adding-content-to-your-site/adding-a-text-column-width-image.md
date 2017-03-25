@@ -6,6 +6,12 @@
 4. In the Aesop Story Engine interface, click Image.
 5. Make the following changes in the Aesop Story Engine Image interface:
 
+| Parameter | Change to |
+| :--- | :--- |
+| Image Size | 760px |
+| Caption | Add caption and photo credit here. Use Photo: Steven Student as format for photo credit. |
+| Caption Position | Center |
+| Reveal Effect | In Place |
 
 
 
