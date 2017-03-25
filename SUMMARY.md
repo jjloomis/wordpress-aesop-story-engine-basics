@@ -25,7 +25,7 @@
 * [Adding a text column-width image](adding-content-to-your-site/adding-a-text-column-width-image.md)
 * [Adding a full webpage-width image](adding-content-to-your-site/adding-a-full-webpage-width-image.md)
 * [Adding a full webpage-width video](adding-content-to-your-site/adding-a-full-webpage-width-video.md)
-* Adding a blockquote component
+* [Adding a blockquote component](adding-content-to-your-site/adding-a-blockquote-component.md)
 * [Adding an audio component](adding-content-to-your-site/adding-an-audio-component.md)
 * [Adding a photo gallery component](adding-content-to-your-site/adding-a-photo-gallery-component.md)
 * [Moving a component](adding-content-to-your-site/moving-a-component.md)
