@@ -1,4 +1,4 @@
-# Adding a text column-width image
+# Adding a full webpage-width video
 
 1. In your Post, select the Text tab to add work in the Text editor. 
 2. In the Text editor, position the cursor where you would like the video to appear.
