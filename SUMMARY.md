@@ -15,8 +15,8 @@
 
 * [Creating a Post](adding-content-to-your-site/creating-a-post.md)
 * [Making a Post private](adding-content-to-your-site/making-a-post-private.md)
-* [Working with content in the Text editor](adding-content-to-your-site/working-with-content-in-the-text-editor.md)
-* Creating a link
+* [Working with text in the Text editor](adding-content-to-your-site/working-with-content-in-the-text-editor.md)
+* [Creating a link](adding-content-to-your-site/creating-a-link.md)
 * Editing a link
 
 ## Working with Aesop Story Engine components
