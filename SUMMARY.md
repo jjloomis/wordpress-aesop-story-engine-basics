@@ -4,14 +4,14 @@
 
 * [Introduction](README.md)
 
-## Accessing your WordPress site
+## Accessing your project site
 
 * [Accessing your project site](accessing-your-project-site.md)
 * [Logging into your project site](logging-into-your-site.md)
 * [Resetting your password](resetting-your-password.md)
 * [Switching from Dashboard to live site](switching-from-dashboard-to-live-site.md)
 
-## Adding content to your site
+## Working with text and links
 
 * [Creating a Post](adding-content-to-your-site/creating-a-post.md)
 * Making a Post private
