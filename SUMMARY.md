@@ -4,8 +4,8 @@
 
 * [Introduction](README.md)
 * [Logging into your site](logging-into-your-site.md)
-* Resetting your password
-* Switching from Dashboard to live site
+* [Resetting your password](resetting-your-password.md)
+* [Switching from Dashboard to live site](switching-from-dashboard-to-live-site.md)
 
 ## Adding content to your site
 
@@ -15,7 +15,7 @@
 * Creating a link
 * Editing a link
 
-## Working with components
+## Working with Aesop Story Engine components
 
 * Adding a text column-width image
 * Adding a full webpage-width image
