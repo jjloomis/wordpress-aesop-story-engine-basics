@@ -18,10 +18,3 @@ Common login problems:
 * Attempting to to log into WordPress.org instead of Media Milwaukee project site.
 
 
-
-
-
-Open a browser and go to your WordPress and go to your WordPress site's URL. Note: Be sure to replace `project` with your project site's subdomain name.
-<p><pre><code>project.mediamilwaukee.com</code></pre></p>
-
-
