@@ -1,8 +1,11 @@
 # Summary
 
-## Accessing your WordPress site
+## Introduction
 
 * [Introduction](README.md)
+
+## Accessing your WordPress site
+
 * [Logging into your site](logging-into-your-site.md)
 * [Resetting your password](resetting-your-password.md)
 * [Switching from Dashboard to live site](switching-from-dashboard-to-live-site.md)
