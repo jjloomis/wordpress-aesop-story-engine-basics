@@ -9,5 +9,13 @@
 7. In the Media Library window, click Select.
 8. Make the following changes in the Aesop Story Engine Image interface:
 
+| Parameter | Change to |
+| :--- | :--- |
+| Title | Add a title that appears above the audio player. This is optional. |
+| Loop Audio Player | Off |
+| Start Audio When in View | Off |
+| Stop Audio When Out of View | Off |
+| Hide Audio Player | Off |
+
 
 
