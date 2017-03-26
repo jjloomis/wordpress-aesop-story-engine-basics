@@ -26,12 +26,12 @@ An example of gallery can be found [here](http://election2016.mediamilwaukee.com
 
 ## Adding a photo gallery to a Post
 
-1. In your Post, select the Text tab to add work in the Text editor. 
-2. In the Text editor, position the cursor where you would like the photo gallery to appear.
+1. In your Post, select the Text tab to add work in the [Text editor](https://jjloomis.gitbooks.io/wordpress-aesop-story-engine-basics/content/adding-content-to-your-site/working-with-content-in-the-text-editor.html). 
+2. In the [Text editor](https://jjloomis.gitbooks.io/wordpress-aesop-story-engine-basics/content/adding-content-to-your-site/working-with-content-in-the-text-editor.html), position the cursor where you would like the photo gallery to appear.
 3. Click the Add Component button. The Aesop Story Engine component interface will appear. 
 4. In the Aesop Story Engine interface, click Gallery.
 5. In the Choose Gallery drop-down list, choose your gallery.
-6. When finished, click Insert Component. The component's shortcode will appear in the Text editor. 
+6. When finished, click Insert Component. The component's shortcode will appear in the [Text editor](https://jjloomis.gitbooks.io/wordpress-aesop-story-engine-basics/content/adding-content-to-your-site/working-with-content-in-the-text-editor.html). 
 7. In the Publish section of your Post, click Update.
 
 
