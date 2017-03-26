@@ -15,5 +15,21 @@
 | Cite | If you would like to site the source of the quote in the blockquote, add the source's name here. Note: This is optional. |
 | Reveal Effect | In Place |
 
+6. When finished, click Insert Component. The component's shortcode will appear in the Text editor. 
+7. In the Publish section of your Post, click Update.
+
+## Adjusting quote size
+
+1. In your Post, make sure the Text editor is active.
+2. Find the shortcode for your blockquote. The shortcode will start with `[aesop_quote `. 
+3. In the shortcode, find the `size` parameter. Change the size to a new number between 1 and 10. Note: Do not delete the `" "` around the number. 
+4. In the Publish section of your Post, click Update. Preview your changes. Make further adjustments as needed. 
+
+
+
+
+
+
+
 
 
