@@ -1,5 +1,9 @@
 # Adding a full webpage-width image
 
+A full webpage-width image is as wide browser window in which it resides. Full webpage-width images are usually landscape-oriented images.
+
+An example of a text column-width image can be found in [this story](http://election2016.mediamilwaukee.com/wisconsin/sharons-red-apple-inn).
+
 1. In your Post, select the Text tab to add work in the Text editor. 
 2. In the Text editor, position the cursor where you would like the image to appear.
 3. Click the Add Component button. The Aesop Story Engine component interface will appear. 
@@ -16,8 +20,8 @@
 | Caption Position | Center |
 | Reveal Effect | In Place |
 
-9. When finished, click Insert Component. The component's shortcode will appear in the Text editor. 
-10. In the Publish section of your Post, click Update.
+1. When finished, click Insert Component. The component's shortcode will appear in the Text editor. 
+2. In the Publish section of your Post, click Update.
 
 
 
