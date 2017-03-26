@@ -8,7 +8,7 @@
 6. In the Media Library window, click the Upload Files tab. Drag and drop \(or navigate to and select\) the MP3 you would like to add to your Post. The MP3 will appear selected in the Media Library window.
 7. In the Media Library window, click Select.
 8. Make the following changes in the Aesop Story Engine Image interface:
-
+<p>
 | Parameter | Change to |
 | :--- | :--- |
 | Title | Add a title that appears above the audio player. This is optional. |
@@ -16,6 +16,8 @@
 | Start Audio When in View | Off |
 | Stop Audio When Out of View | Off |
 | Hide Audio Player | Off |
-
+</p>
+9. When finished, click Insert Component. The component's shortcode will appear in the Text editor. 
+10. In the Publish section of your Post, click Update.
 
 
