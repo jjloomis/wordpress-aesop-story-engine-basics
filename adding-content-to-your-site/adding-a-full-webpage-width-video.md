@@ -12,7 +12,7 @@
 | :--- | :--- |
 | Component Width | 100% |
 | Video ID | Paste video ID here. See step 6 \(above\). |
-| Caption | Add video credits here. Use Video: Steven Student as format for credits. |
+| Caption | Add video credits here. Use Video: Steven Student \(no period\) as format for credits. |
 
 Before adding a YouTube video to the Aesop Story Engine interface, you will
 
