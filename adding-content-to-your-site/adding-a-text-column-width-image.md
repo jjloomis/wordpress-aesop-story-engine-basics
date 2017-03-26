@@ -7,7 +7,7 @@
 5. In the Image URL area, click Select Media. The Media Library window will appear.
 6. In the Media Library window, click the Upload Files tab. Drag and drop \(or navigate to and select\) the image you would like to add to your Post. The image will appear selected in the Media Library window.
 7. In the Media Library window, click Select.
-8. Make the following changes in the Aesop Story Engine Image interface:
+8. Make the following changes in the Aesop Story Engine Image interface
 
    | Parameter | Change to |
    | :--- | :--- |
