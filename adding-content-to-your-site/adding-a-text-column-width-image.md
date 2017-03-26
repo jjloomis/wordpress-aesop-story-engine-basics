@@ -9,14 +9,14 @@
 7. In the Media Library window, click Select.
 8. Make the following changes in the Aesop Story Engine Image interface
 
-   
+<p>   
    | Parameter | Change to |
    | :--- | :--- |
    | Image Size | 760px |
    | Caption | Add a caption and photo credit here. Use Photo: Steven Student \(no period\) as format for photo credit. |
    | Caption Position | Center |
    | Reveal Effect | In Place |
-   
+</p>   
    
 9. When finished, click Insert Component. The component's shortcode will appear in the Text editor. 
 10. In the Publish section of your Post, click Update.
