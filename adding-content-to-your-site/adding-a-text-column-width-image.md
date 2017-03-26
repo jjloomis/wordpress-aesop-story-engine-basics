@@ -2,7 +2,7 @@
 
 A text column-width image is as wide the text column in which it resides. Text column-width images can be either landscape or portrait-oriented images.
 
-
+An example of a text column-width image can be found in this story.
 
 1. In your Post, select the Text tab to add work in the Text editor. 
 2. In the Text editor, position the cursor where you would like the image to appear.
