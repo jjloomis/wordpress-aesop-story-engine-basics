@@ -19,6 +19,7 @@
 * [Working with content in the Text editor](adding-content-to-your-site/working-with-content-in-the-text-editor.md)
 * [Creating a link](adding-content-to-your-site/creating-a-link.md)
 * [Editing a link](adding-content-to-your-site/editing-a-link.md)
+* [Adding a Featured Image to your Post](adding-content-to-your-site/adding-a-featured-image.md)
 
 ## Working with Aesop Story Engine components
 
