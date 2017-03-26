@@ -9,7 +9,7 @@
 6. In the Media Library window, click the Upload Files tab. Drag and drop \(or navigate to and select\) the images you would like to add to your Gallery. The images will appear in the Media Library window.
 7. While holding the Shift key, click the images you would like to add to your Gallery. The selected images will appear checkmarked. Click Use Selected Images to add the images to your Gallery. 
 8. Click and drag images to rearrange the order of the images in your Gallery. To remove an image from your Gallery, click the `x` in its upper-right corner.
-9. Make the following changes in the Gallery section:
+9. Make the following changes in the Gallery window:
 
 
 
