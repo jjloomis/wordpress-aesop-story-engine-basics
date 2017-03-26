@@ -1,5 +1,9 @@
 # Adding an audio component
 
+The Aesop Story Engine audio component appears similar to the default WordPress audio player, however, you can add a title to the player.
+
+Examples of audio components appear in [this story](http://longform2016.mediamilwaukee.com/milwaukees-urban-farms-defining-success/).
+
 1. In your Post, select the Text tab to add work in the Text editor. 
 2. In the Text editor, position the cursor where you would like the video to appear.
 3. Click the Add Component button. The Aesop Story Engine component interface will appear. 
@@ -17,7 +21,8 @@
 | Stop Audio When Out of View | Off |
 | Hide Audio Player | Off |
 
-9. When finished, click Insert Component. The component's shortcode will appear in the Text editor. 
-10. In the Publish section of your Post, click Update.
+1. When finished, click Insert Component. The component's shortcode will appear in the Text editor. 
+2. In the Publish section of your Post, click Update.
+
 
 
