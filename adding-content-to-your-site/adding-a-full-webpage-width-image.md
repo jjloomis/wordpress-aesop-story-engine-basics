@@ -2,7 +2,7 @@
 
 A full webpage-width image is as wide browser window in which it resides. Full webpage-width images are usually landscape-oriented images.
 
-An example of a text column-width image can be found in [this story](http://election2016.mediamilwaukee.com/wisconsin/sharons-red-apple-inn).
+Examples of full webpage-width images can be found in [this story](http://election2016.mediamilwaukee.com/wisconsin/old-man-time).
 
 1. In your Post, select the Text tab to add work in the Text editor. 
 2. In the Text editor, position the cursor where you would like the image to appear.
