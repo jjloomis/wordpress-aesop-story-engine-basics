@@ -1,5 +1,9 @@
 # Adding a photo gallery component
 
+A photo gallery is a set of images within a story. Before adding a gallery to your story, you'll need create the gallery and adjust some its parameters \(see below.\)
+
+An example of gallery can be found [here](http://election2016.mediamilwaukee.com/gallery).
+
 ## Creating the photo gallery
 
 1. In the Dashboard of your project site, go to Galleries \(of the left\).
@@ -18,7 +22,7 @@
 | Gallery Caption | Add a caption and/ or photo credit here. Use `Photo: Steven Student` \(no period\) as format for photo credit. |
 | Gallery Transition | Slide |
 
-9. When finished, click Publish.
+1. When finished, click Publish.
 
 ## Adding a photo gallery to a Post
 
