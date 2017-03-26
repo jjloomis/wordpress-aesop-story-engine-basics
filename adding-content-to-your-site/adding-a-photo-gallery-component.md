@@ -20,5 +20,9 @@
 
 9. When finished, click Publish.
 
+## Adding a photo gallery to a Post
+
+1. 
+
 
 
