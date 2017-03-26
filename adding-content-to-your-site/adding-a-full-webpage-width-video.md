@@ -6,6 +6,8 @@
 4. In the Aesop Story Engine interface, click Video.
 5. To add your YouTube video to the Aesop Story Engine interface, you'll need to find and copy the video's ID. Open another browser tab and navigate to your YouTube video. 
 6. In the video's URL, select and copy everthing after `watch?v=` in the address bar. This is the video's ID. (For example, the video ID of `https://www.youtube.com/watch?v=mVcxPHTeq7k ` is `mVcxPHTeq7k`).
+7. Make the following changes in the Aesop Story Engine interface:
+
 Before adding a YouTube video to the Aesop Story Engine interface, you will 
 
 9. When finished, click Insert Component. The component's shortcode will appear in the Text editor. 
