@@ -4,8 +4,8 @@ A text column-width image is as wide the text column in which it resides. Text c
 
 An example of a text column-width image can be found in [this story](http://election2016.mediamilwaukee.com/wisconsin/sharons-red-apple-inn).
 
-1. In your Post, select the Text tab to add work in the Text editor. 
-2. In the Text editor, position the cursor where you would like the image to appear.
+1. In your Post, select the Text tab to add work in the [Text editor](https://jjloomis.gitbooks.io/wordpress-aesop-story-engine-basics/content/adding-content-to-your-site/working-with-content-in-the-text-editor.html). 
+2. In the [Text editor,](https://jjloomis.gitbooks.io/wordpress-aesop-story-engine-basics/content/adding-content-to-your-site/working-with-content-in-the-text-editor.html) position the cursor where you would like the image to appear.
 3. Click the Add Component button. The Aesop Story Engine component interface will appear. 
 4. In the Aesop Story Engine interface, click Image.
 5. In the Image URL area, click Select Media. The Media Library window will appear.
