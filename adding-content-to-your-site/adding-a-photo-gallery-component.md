@@ -15,8 +15,8 @@
 | :--- | :--- |
 | Select Layout | Thumbnail |
 | Main Gallery Width | 760px |
-| Gallery Caption | Add a caption and/ or photo credit here. Use `Photo: Steven Student` (no period) as format for photo credit.
- as |
+| Gallery Caption | Add a caption and/ or photo credit here. Use `Photo: Steven Student` \(no period\) as format for photo credit. |
+| Gallery Transition | Slide |
 
 
 
