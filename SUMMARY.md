@@ -14,7 +14,6 @@
 ## Working with text and links
 
 * [Creating a Post](adding-content-to-your-site/creating-a-post.md)
-* [Making a Post private](adding-content-to-your-site/making-a-post-private.md)
 * [Working with content in the Visual editor](adding-content-to-your-site/working-with-content-in-the-visual-editor.md)
 * [Working with content in the Text editor](adding-content-to-your-site/working-with-content-in-the-text-editor.md)
 * [Creating a link](adding-content-to-your-site/creating-a-link.md)
