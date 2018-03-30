@@ -8,6 +8,5 @@ project.mediamilwaukee.com/wp-admin
 
 Be sure to replace `project` with your project site's subdomain name.
 
-Enter your ePanther name (or UW-Milwaukee email address) and the password you created when you registered your account.
-
+Enter your ePanther name \(or UW-Milwaukee email address\) and the password you created when you [reset your password](/resetting-your-password.md).
 
