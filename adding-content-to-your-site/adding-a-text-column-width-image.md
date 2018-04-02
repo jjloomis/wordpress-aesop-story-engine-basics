@@ -15,7 +15,7 @@ An example of a text column-width image can be found in [this story](http://elec
 
 | Parameter | Change to |
 | :--- | :--- |
-| Image Size | 760px |
+| Image Width | 760px |
 | Caption | Add a caption and photo credit here. Use `Photo: Steven Student` \(no period\) as format for photo credit. |
 | Caption Position | Center |
 | Reveal Effect | In Place |
