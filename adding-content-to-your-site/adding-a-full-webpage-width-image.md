@@ -15,7 +15,7 @@ Examples of full webpage-width images can be found in [this story](http://electi
 
 | Parameter | Change to |
 | :--- | :--- |
-| Image Size | 100% |
+| Image Width | 100% |
 | Caption | Add a caption and photo credit here. Use `Photo: Steven Student` \(no period\) as format for photo credit. |
 | Caption Position | Center |
 | Reveal Effect | In Place |
